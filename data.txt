@@ -1,0 +1,41 @@
+First semester: 
+internals--> 228/300
+lab internals-->167/210 (changed to 137/180)
+midterm-->87/120
+tests-->141/180
+
+Second semester: 
+internals--> 184/300
+lab internals-->152/180
+midterm-->113/180
+tests-->71/120
+
+Third semester: 
+internals--> 201/300
+lab internals-->139/180
+midterm-->110/180
+tests-->91/120
+
+Fourth semester:
+internals-->142/250
+lab internals--> 134/180
+midterm-->76/150
+tests-->66/100
+
+Fifth semester:
+internals-->203/250
+lab internals--> 168/180
+midterm-->119/150
+tests-->84/100
+
+Sixth semester:
+internals-->219/250
+lab internals--> 162/180
+midterm-->91/120
+tests-->128/130
+
+Seventh semester:
+internals-->213/250
+lab internals--> 0/180
+midterm-->91/120
+tests-->122/130
